@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Scrape NFL/Football broadcasts on Las Vegas OTA channels from tvtv.us.
+"""Scrape NFL broadcasts on Las Vegas OTA channels from tvtv.us.
 
-Mechanical capture only: anything on the target channels whose title or
-subtitle mentions "NFL" or "Football" (case-insensitive) is written verbatim
-to latest.json. No team/matchup parsing happens here.
+Mechanical capture only: NFL airings on the target channels (games, Sunday
+Night Football, NFL studio shows; see INCLUDE_RE / EXCLUDE_RE) are written
+verbatim to latest.json. College football, IFL/UFL and soccer are excluded.
+No team/matchup parsing happens here.
 
 How it works (see README.md for the investigation notes):
   tvtv.us sits behind Cloudflare, which 403s plain HTTP clients and the
@@ -45,9 +46,20 @@ TARGET_CHANNELS = {
 }
 
 DAYS_AHEAD = 14  # today through today + 14 (inclusive)
-# "NFL" must start a word: a bare substring also hits "DragoNFLyTV" and
-# "iNFLuential". "football" stays a plain substring.
-KEYWORD_RE = re.compile(r"\bnfl|football", re.IGNORECASE)
+# NFL only. An airing is kept if its title or subtitle matches INCLUDE_RE and
+# not EXCLUDE_RE. Games are titled "NFL Football" (Sunday Night Football
+# included; its pregame is "Football Night in America"). "NFL" must be a whole
+# word: a bare substring hits "DragoNFLyTV" and "iNFLuential". Plain
+# "football" is deliberately not a keyword: on these channels it is college,
+# IFL/UFL or soccer.
+INCLUDE_RE = re.compile(
+    r"\bNFL\b|Football Night in America|(Sunday|Monday|Thursday) Night Football|Super Bowl|Pro Bowl",
+    re.IGNORECASE,
+)
+EXCLUDE_RE = re.compile(
+    r"college|NCAA|\bIFL\b|\bUFL\b|soccer|\bMLS\b|FIFA|UEFA|Premier League|Liga MX|World Cup",
+    re.IGNORECASE,
+)
 TZ = ZoneInfo("America/Los_Angeles")
 
 USER_AGENT = (
@@ -198,6 +210,11 @@ def save_detail_cache(cache):
     DETAIL_CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
 
 
+def is_nfl(airing):
+    text = f"{airing['title']} {airing['subtitle']}"
+    return bool(INCLUDE_RE.search(text)) and not EXCLUDE_RE.search(text)
+
+
 class Blocked(Exception):
     pass
 
@@ -310,7 +327,7 @@ def scrape():
             end_ms = window_end.timestamp() * 1000
             matches = [
                 (st, a) for st, a in airings.values()
-                if start_ms <= a["time_ms"] < end_ms and KEYWORD_RE.search(f"{a['title']} {a['subtitle']}")
+                if start_ms <= a["time_ms"] < end_ms and is_nfl(a)
             ]
             matches.sort(key=lambda m: (m[1]["time_ms"], float(m[0]["channel"])))
 
