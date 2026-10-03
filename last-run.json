@@ -1,0 +1,51 @@
+{
+  "scraped_at": "2026-10-02T19:37:26-07:00",
+  "source": "https://www.tvtv.us/nv/las-vegas/89118/luUSA-OTA89118",
+  "window_start": "2026-10-02",
+  "window_end": "2026-10-16",
+  "stations": [
+    "3.1 KSNVDT",
+    "3.2 KSNVDT2",
+    "3.3 KSNVDT3",
+    "3.4 KSNVDT4",
+    "3.21 KSNVD21",
+    "5.1 KVVUDT",
+    "5.2 KVVUDT2",
+    "5.3 KVVUDT3",
+    "5.4 KVVUDT4",
+    "5.5 KVVUDT5",
+    "5.6 KVVUDT6",
+    "5.7 KVVUDT7",
+    "8.1 KLASDT",
+    "8.2 KLASDT2",
+    "8.3 KLASDT3",
+    "8.4 KLASDT4",
+    "13.1 KTNVDT",
+    "13.2 KTNVDT2",
+    "13.3 KTNVDT3",
+    "13.4 KTNVDT4",
+    "13.6 KTNVDT6"
+  ],
+  "utc_days_published": [
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04",
+    "2026-10-05",
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11"
+  ],
+  "utc_days_not_published": [
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17"
+  ],
+  "errors": [],
+  "match_count": 61
+}
