@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T19:37:26-07:00",
+  "scraped_at": "2026-10-02T19:47:46-07:00",
   "source": "https://www.tvtv.us/nv/las-vegas/89118/luUSA-OTA89118",
   "window_start": "2026-10-02",
   "window_end": "2026-10-16",
@@ -47,5 +47,5 @@
     "2026-10-17"
   ],
   "errors": [],
-  "match_count": 61
+  "match_count": 18
 }
