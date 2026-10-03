@@ -2,9 +2,10 @@
 
 Once a day, this scrapes the over-the-air TV guide for Las Vegas (zip 89118)
 from [tvtv.us](https://www.tvtv.us/nv/las-vegas/89118/luUSA-OTA89118). It
-keeps every airing on the FOX, CBS, NBC and ABC stations whose title or
-subtitle mentions **NFL** or **Football**, and commits them, verbatim, to
-`latest.json`.
+keeps every **NFL** airing on the FOX, CBS, NBC and ABC stations (games,
+including Sunday Night Football, plus NFL studio shows) and commits them,
+verbatim, to `latest.json`. College football, IFL/UFL and soccer are
+excluded.
 
 The script doesn't interpret anything: there's no team matching and no
 local-vs-streaming logic. Another process reads `latest.json` and does that.
@@ -44,9 +45,9 @@ Git history on `latest.json` is the audit trail.
 
 For games, the matchup is in `subtitle`. `title`, `subtitle` and
 `description` are exactly as tvtv.us shows them. Times are Pacific. Every
-subchannel of the four stations is included (e.g. 5.2 KVVUDT2, which runs
-classic college games), and so are shows such as "FOX NFL Sunday", "College
-Football" and "IFL Football". The downstream reader decides what matters.
+subchannel of the four stations is scanned. Studio shows such as "FOX NFL
+Sunday", "The NFL Today" and "Football Night in America" (the SNF pregame)
+are kept; games are the entries titled "NFL Football".
 
 ## How it works
 
@@ -75,11 +76,14 @@ Football" and "IFL Football". The downstream reader decides what matters.
 - **Rate limits.** The details dialog returns 429, then a Cloudflare 403, if
   you hit it quickly. Details are fetched one at a time with 2s gaps and
   cached for 2 days, and any 403 aborts the run (exit 3).
-- **Keyword filter.** The filter runs on title and subtitle:
-  `\bnfl|football`, case-insensitive. "NFL" must start a word because a bare
-  substring also matches "Drago**nFl**yTV" and "I**nfl**uential". Matching on
-  the description too would need one details fetch per airing (thousands), so
-  descriptions are only fetched for airings that already matched.
+- **NFL filter.** The filter runs on title and subtitle. An airing is kept
+  if it matches `INCLUDE_RE` (whole-word `NFL`, `Football Night in America`,
+  `Sunday/Monday/Thursday Night Football`, `Super Bowl`, `Pro Bowl`) and does
+  not match `EXCLUDE_RE` (college, NCAA, IFL, UFL, soccer, MLS, FIFA, UEFA,
+  Premier League, Liga MX, World Cup). "NFL" must be a whole word because a
+  bare substring also matches "Drago**nFl**yTV" and "I**nfl**uential". Plain
+  "football" isn't a keyword: on these channels it means college, IFL or
+  soccer. Descriptions are fetched only for airings that already matched.
 - **Failure handling.** A failed or blocked run leaves `latest.json` untouched
   and commits nothing.
 
@@ -129,6 +133,6 @@ All settings are at the top of `scrape.py`:
   Every subchannel `N.x` of a listed major is scanned. Add `"10": "PBS
   (KLVX)"` for example, or restrict to main channels only by filtering
   `stations` to `.endswith(".1")`.
-- **Keywords.** `KEYWORD_RE`.
+- **What counts as NFL.** `INCLUDE_RE` / `EXCLUDE_RE` in `scrape.py`.
 - **Lookahead.** `DAYS_AHEAD`.
 - **Schedule.** `crontab -e`.
