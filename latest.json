@@ -1,0 +1,1129 @@
+[
+  {
+    "date": "2026-10-02",
+    "weekday": "Friday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-02T16:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "2013 Tennessee at Oregon",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "EP002712888763"
+  },
+  {
+    "date": "2026-10-02",
+    "weekday": "Friday",
+    "start_time_pt": "5:00 PM",
+    "start_iso": "2026-10-02T17:00:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Penn State at Northwestern",
+    "description": "Northwestern hosts Penn State in a Big Ten Week 5 matchup under the lights at Ryan Field. Northwestern enters after posting 325 total yards in a 29-23 loss at Indiana, while Penn State recorded 233 yards in a 24-20 home loss to Wisconsin on Sept. 26.\n2026 at New Ryan Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990701"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-03T09:00:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Michigan at Minnesota",
+    "description": "The Minnesota Golden Gophers host the Michigan Wolverines. The Golden Gophers (3-1) beat the Huskies, 27-24, behind quarterback Drake Lindsey, while the Wolverines (3-1) lost 20-19 to the No. 14 Hawkeyes, leaving them 0-1 in Big Ten action.\n2026 at Huntington Bank Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990640"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-03T09:00:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "College Football",
+    "subtitle": "Navy at Air Force",
+    "description": "The Navy Midshipmen and the Air Force Falcons meet as part of the Commander-in-Chief's Trophy competition. Air Force beat Nevada in double overtime last week, while Navy lost against UAB, 24-20. Games against Army also determine the trophy winner.\n2026 at Falcon Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP062700990709"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-03T09:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football",
+    "subtitle": "Alabama at Mississippi State",
+    "description": "The No. 16 Mississippi State Bulldogs host the No. 7 Alabama Crimson Tide. The Bulldogs beat the No. 25 Tigers, 31-24, paced by quarterback Kamario Taylor, while the Crimson Tide beat the Gamecocks, 49-18, led by quarterback Keelon Russell.\n2026 at Davis Wade Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990626"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "12:00 PM",
+    "start_iso": "2026-10-03T12:00:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Howard vs. Hampton",
+    "description": "From Audi Field in Washington, D.C.\n2026 at Audi Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p",
+    "program_id": "EP062700990635"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "12:00 PM",
+    "start_iso": "2026-10-03T12:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football Scoreboard",
+    "subtitle": "",
+    "description": "All the latest news and analysis from the world of college football.",
+    "genres": [
+      "Football",
+      "Sports talk"
+    ],
+    "qualifiers": "Live,HD 720p,HDTV,Stereo",
+    "program_id": "SH029966050000"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "12:30 PM",
+    "start_iso": "2026-10-03T12:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "College Football",
+    "subtitle": "Ohio State at Iowa",
+    "description": "The No. 5 Ohio State Buckeyes battle the No. 14 Iowa Hawkeyes in Week 5 of college football at Kinnick Stadium. The Hawkeyes enter Week 5 with a perfect 4-0 record after defeating Michigan, 20-19. Ohio State (3-1) defeated Illinois, 42-19, in Week 4.\n2026 at Kinnick Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP062700990685"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "12:30 PM",
+    "start_iso": "2026-10-03T12:30:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football",
+    "subtitle": "Florida at Missouri",
+    "description": "The No. 8 Florida Gators battle the No. 25 Missouri Tigers at Memorial Stadium in a Week 5 SEC showdown. Florida enters this game with a perfect 4-0 record, while Missouri (3-1) dropped its first game by losing to Mississippi State, 31-24, last week.\n2026 at Faurot Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990700"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "3:30 PM",
+    "start_iso": "2026-10-03T15:30:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football Scoreboard",
+    "subtitle": "",
+    "description": "All the latest news and analysis from the world of college football.",
+    "genres": [
+      "Football",
+      "Sports talk"
+    ],
+    "qualifiers": "Live,HD 720p,HDTV,Stereo",
+    "program_id": "SH029966050000"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-03T16:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football Scoreboard",
+    "subtitle": "",
+    "description": "All the latest news and analysis from the world of college football.",
+    "genres": [
+      "Football",
+      "Sports talk"
+    ],
+    "qualifiers": "Live,HD 720p,HDTV,Stereo",
+    "program_id": "SH029966050000"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "4:30 PM",
+    "start_iso": "2026-10-03T16:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "College Football",
+    "subtitle": "Washington at USC",
+    "description": "The No. 18 Trojans battle the Huskies for a Week 5 NCAA game. Both teams seek to bounce back after Week 4 losses. Washington fell 27-24 to Minnesota behind two Demond Williams Jr. TDs, while USC lost 41-27 to Oregon despite two Jayden Maiava TDs.\n2026 at Los Angeles Memorial Coliseum",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "EP062700990678"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "4:30 PM",
+    "start_iso": "2026-10-03T16:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Texas Tech at Colorado",
+    "description": "The Colorado Buffaloes host the No. 12 Texas Tech Red Raiders at Folsom Field in Boulder. The Buffaloes lost 23-13 to the Bears and rely on quarterback Julian Lewis, while the Red Raiders beat the Bearkats, 49-14, paced by quarterback Will Hammond.\n2026 at Folsom Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990665"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "4:30 PM",
+    "start_iso": "2026-10-03T16:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football",
+    "subtitle": "Miami at Clemson",
+    "description": "The Clemson Tigers host the No. 4 Miami Hurricanes at Memorial Stadium in South Carolina. The Tigers beat the Golden Bears, 24-10, paced by quarterback Tait Reynolds, while the Hurricanes beat the Chippewas, 52-3, paced by quarterback Darian Mensah.\n2026 at Clemson Memorial Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990619"
+  },
+  {
+    "date": "2026-10-03",
+    "weekday": "Saturday",
+    "start_time_pt": "8:00 PM",
+    "start_iso": "2026-10-03T20:00:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Cincinnati at Arizona",
+    "description": "The Cincinnati Bearcats face the Arizona Wildcats in Week 5 of the NCAAF in a Big 12 game. The Bearcats hold a perfect record and won against Kansas State Wildcats, 31-26, in Week 4. Arizona defeated Washington State, 34-24, in their previous game.\n2026 at Casino Del Sol Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990646"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "8:00 AM",
+    "start_iso": "2026-10-04T08:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Kickoff",
+    "subtitle": "",
+    "description": "Episode 5 (2026)\nCharissa Thompson (Host), Charles Woodson (Host), Julian Edelman (Host)\nFOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP017759620012"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-04T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Sunday",
+    "subtitle": "",
+    "description": "Episode 5 (2026)\nCurt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nHosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP001148370025"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-04T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "The NFL Today",
+    "subtitle": "",
+    "description": "Episode 10 (2026)\nJames Brown (Host), Bill Cowher (Host), Nate Burleson (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 1080i,HDTV",
+    "program_id": "EP002769000095"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-04T10:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL Football",
+    "subtitle": "Los Angeles Rams at Philadelphia Eagles",
+    "description": "The Philadelphia Eagles host the Los Angeles Rams in Week 4 at Lincoln Financial Field. Philadelphia stands at 2-1 after a 27-7 loss to Chicago, while Rams' QB Matthew Stafford racked up 390 passing yards in a 30-26 loss to the Broncos.\n2026-2027 at Lincoln Financial Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP000031285733"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-04T10:00:00-07:00",
+    "runtime_minutes": 205,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Football",
+    "subtitle": "New England Patriots at Buffalo Bills",
+    "description": "The Bills (3-0) host the Patriots (1-2) at Highmark Stadium. The Bills beat the Chargers 24-16 behind two Josh Allen rushing TDs, but his status is in question due to a sore knee. New England enters after a 35-6 loss to Jacksonville in Week 3.\n2026-2027 at New Highmark Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP000031285732"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "1:00 PM",
+    "start_iso": "2026-10-04T13:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL on FOX Postgame",
+    "subtitle": "",
+    "description": "Curt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nScores and highlights from around the NFL, with hosts Curt Menefee and Terry Bradshaw along with analysts Howie Long, Jimmy Johnson and Michael Strahan.",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "SH002017190000"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "1:25 PM",
+    "start_iso": "2026-10-04T13:25:00-07:00",
+    "runtime_minutes": 185,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Football",
+    "subtitle": "Kansas City Chiefs at Las Vegas Raiders",
+    "description": "The Las Vegas Raiders host the Kansas City Chiefs at Allegiant Stadium in NFL Week 4. Both teams are unbeaten, sitting atop the AFC West. Las Vegas claimed the last meeting, a 14-12 victory in the last game of the regular season on January 4.\n2026-2027 at Allegiant Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP000031285740"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "2:00 PM",
+    "start_iso": "2026-10-04T14:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "Origin Sports: College Football",
+    "subtitle": "",
+    "description": "",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH043461550000"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-04T16:00:00-07:00",
+    "runtime_minutes": 75,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "Football Night in America",
+    "subtitle": "",
+    "description": "Maria Taylor (Host), Jason Garrett (Host), Mike Tomlin (Host)\n\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day's NFL highlights.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "SH008483860000"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "5:00 PM",
+    "start_iso": "2026-10-04T17:00:00-07:00",
+    "runtime_minutes": 120,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "2010: UCLA at Arizona State",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "EP002712888784"
+  },
+  {
+    "date": "2026-10-04",
+    "weekday": "Sunday",
+    "start_time_pt": "5:15 PM",
+    "start_iso": "2026-10-04T17:15:00-07:00",
+    "runtime_minutes": 195,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "NFL Football",
+    "subtitle": "Detroit Lions at Carolina Panthers",
+    "description": "The Detroit Lions clash with the Carolina Panthers in Week 4 at Bank of America stadium. Detroit enters following a 31-24 win over the Jets on September 27, while host Carolina aims to bounce back from a 21-18 loss to Cleveland the same day.\n2026-2027 at Bank of America Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "EP000031285741"
+  },
+  {
+    "date": "2026-10-05",
+    "weekday": "Monday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-05T16:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "2013: Arizona State at Utah",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "EP002712888765"
+  },
+  {
+    "date": "2026-10-06",
+    "weekday": "Tuesday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-06T16:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "2013 Oregon at Arizona",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "EP002712888849"
+  },
+  {
+    "date": "2026-10-06",
+    "weekday": "Tuesday",
+    "start_time_pt": "7:00 PM",
+    "start_iso": "2026-10-06T19:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH002712880000"
+  },
+  {
+    "date": "2026-10-07",
+    "weekday": "Wednesday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-07T10:00:00-07:00",
+    "runtime_minutes": 120,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "IFL Football",
+    "subtitle": "",
+    "description": "Indoor football action from the IFL.",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH025928130000"
+  },
+  {
+    "date": "2026-10-07",
+    "weekday": "Wednesday",
+    "start_time_pt": "11:00 AM",
+    "start_iso": "2026-10-07T11:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "3.2",
+    "call_sign": "KSNVDT2",
+    "station_group": "NBC (KSNV)",
+    "title": "Hollywood Game Night",
+    "subtitle": "Football Game Night",
+    "description": "Season 4; Episode 5 (2016)\nJane Lynch (Host), Al Michaels (Guest), Rich Eisen (Guest)\nContestants play party games with Al Michaels, Rich Eisen, Apolo Ohno, Tara Lipinski, Nate Burleson and Maurice Jones Drew.",
+    "genres": [
+      "Game show"
+    ],
+    "qualifiers": "CC,Stereo",
+    "program_id": "EP016672640046"
+  },
+  {
+    "date": "2026-10-07",
+    "weekday": "Wednesday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-07T16:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH002712880000"
+  },
+  {
+    "date": "2026-10-08",
+    "weekday": "Thursday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-08T10:00:00-07:00",
+    "runtime_minutes": 120,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH002712880000"
+  },
+  {
+    "date": "2026-10-08",
+    "weekday": "Thursday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-08T16:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH002712880000"
+  },
+  {
+    "date": "2026-10-09",
+    "weekday": "Friday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-09T16:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH002712880000"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-10T09:00:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Indiana at Nebraska",
+    "description": "From Memorial Stadium in Lincoln, Neb.\n2026 at Memorial Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990771"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-10T09:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football",
+    "subtitle": "Teams TBA",
+    "description": "All the action from college football.\n2009-2010",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP000009935605"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:00 PM",
+    "start_iso": "2026-10-10T12:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "Notre Dame Football: College Countdown",
+    "subtitle": "",
+    "description": "The Notre Dame football pregame show.",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "SH051699800000"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:00 PM",
+    "start_iso": "2026-10-10T12:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "2013: Arizona State at Utah",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "EP002712888765"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:00 PM",
+    "start_iso": "2026-10-10T12:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "College Football Today",
+    "subtitle": "",
+    "description": "Adam Zucker (Host), Brian Jones (Host), Rick Neuheisel (Actor)\nAdam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "SH000812550000"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:00 PM",
+    "start_iso": "2026-10-10T12:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football Scoreboard",
+    "subtitle": "",
+    "description": "All the latest news and analysis from the world of college football.",
+    "genres": [
+      "Football",
+      "Sports talk"
+    ],
+    "qualifiers": "Live,HD 720p,HDTV,Stereo",
+    "program_id": "SH029966050000"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:30 PM",
+    "start_iso": "2026-10-10T12:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "College Football",
+    "subtitle": "Stanford at Notre Dame",
+    "description": "From Notre Dame Stadium in South Bend, Ind.\n2026 at Notre Dame Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "EP062700990829"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:30 PM",
+    "start_iso": "2026-10-10T12:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Houston at Kansas State",
+    "description": "From Bill Snyder Family Football Stadium in Manhattan, Kan.\n2026 at Bill Snyder Family Football Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990757"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:30 PM",
+    "start_iso": "2026-10-10T12:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "College Football",
+    "subtitle": "UCLA at Oregon",
+    "description": "From Autzen Stadium in Eugene, Ore.\n2026 at Autzen Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP062700990810"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "12:30 PM",
+    "start_iso": "2026-10-10T12:30:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football",
+    "subtitle": "Texas vs. Oklahoma",
+    "description": "From Cotton Bowl Stadium in Dallas.\n2026 at Cotton Bowl Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990834"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "1:00 PM",
+    "start_iso": "2026-10-10T13:00:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "Florida A&M at Alabama State",
+    "description": "From New ASU Stadium in Montgomery, Ala.\n2026 at New ASU Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p",
+    "program_id": "EP062700990832"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "3:30 PM",
+    "start_iso": "2026-10-10T15:30:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football Scoreboard",
+    "subtitle": "",
+    "description": "All the latest news and analysis from the world of college football.",
+    "genres": [
+      "Football",
+      "Sports talk"
+    ],
+    "qualifiers": "Live,HD 720p,HDTV,Stereo",
+    "program_id": "SH029966050000"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-10T16:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football Scoreboard",
+    "subtitle": "",
+    "description": "All the latest news and analysis from the world of college football.",
+    "genres": [
+      "Football",
+      "Sports talk"
+    ],
+    "qualifiers": "Live,HD 720p,HDTV,Stereo",
+    "program_id": "SH029966050000"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "4:30 PM",
+    "start_iso": "2026-10-10T16:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "College Football",
+    "subtitle": "USC at Penn State",
+    "description": "From West Shore Home Field at Beaver Stadium in University Park, Pa.\n2026 at West Shore Home Field at Beaver Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "EP062700990809"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "4:30 PM",
+    "start_iso": "2026-10-10T16:30:00-07:00",
+    "runtime_minutes": 150,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "Origin Sports: College Football",
+    "subtitle": "",
+    "description": "",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "SH043461550000"
+  },
+  {
+    "date": "2026-10-10",
+    "weekday": "Saturday",
+    "start_time_pt": "4:30 PM",
+    "start_iso": "2026-10-10T16:30:00-07:00",
+    "runtime_minutes": 210,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "College Football",
+    "subtitle": "Georgia at Alabama",
+    "description": "From Saban Field at Bryant-Denny Stadium in Tuscaloosa, Ala.\n2026 at Saban Field at Bryant-Denny Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP062700990802"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "8:00 AM",
+    "start_iso": "2026-10-11T08:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Kickoff",
+    "subtitle": "",
+    "description": "Episode 6 (2026)\nCharissa Thompson (Host), Charles Woodson (Host), Julian Edelman (Host)\nFOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP017759620013"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-11T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Sunday",
+    "subtitle": "",
+    "description": "Episode 6 (2026)\nCurt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nHosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP001148370026"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-11T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "The NFL Today",
+    "subtitle": "",
+    "description": "Episode 11 (2026)\nJames Brown (Host), Bill Cowher (Host), Nate Burleson (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 1080i,HDTV",
+    "program_id": "EP002769000096"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-11T10:00:00-07:00",
+    "runtime_minutes": 205,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL Football",
+    "subtitle": "Chicago Bears at Green Bay Packers",
+    "description": "The Green Bay Packers host the Chicago Bears for NFL Week 5 at Lambeau Field. Chicago secured a 31-27 win over Green Bay in January 2026. These storied rivals look for a victory as they square off in this NFC North divisional clash.\n2026-2027 at Lambeau Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP000031285752"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-11T10:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Football",
+    "subtitle": "Las Vegas Raiders at New England Patriots",
+    "description": "The New England Patriots host the Las Vegas Raiders in an NFL Week 5 matchup at Gillette Stadium. New England looks to bounce back behind quarterback Drake Maye's passing attack, while Las Vegas aims to build momentum on the road.\n2026-2027 at Gillette Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,HD 1080i",
+    "program_id": "EP000031285745"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "1:00 PM",
+    "start_iso": "2026-10-11T13:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Today Postgame",
+    "subtitle": "",
+    "description": "(2026)\nJames Brown (Host), Nate Burleson (Host), Bill Cowher (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP004204220054"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "1:25 PM",
+    "start_iso": "2026-10-11T13:25:00-07:00",
+    "runtime_minutes": 185,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL Football",
+    "subtitle": "San Francisco 49ers at Seattle Seahawks",
+    "description": "The Seattle Seahawks host the San Francisco 49ers for Week 5 at Lumen Field. Seattle earned a 41-6 victory over San Francisco in January 2026. The 49ers and Seahawks square off looking for a crucial victory in this NFC West divisional clash.\n2026-2027 at Lumen Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP000031285755"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "1:30 PM",
+    "start_iso": "2026-10-11T13:30:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Today Postgame",
+    "subtitle": "",
+    "description": "(2026)\nJames Brown (Host), Nate Burleson (Host), Bill Cowher (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP004204220054"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-11T16:00:00-07:00",
+    "runtime_minutes": 75,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "Football Night in America",
+    "subtitle": "",
+    "description": "Maria Taylor (Host), Jason Garrett (Host), Mike Tomlin (Host)\n\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day's NFL highlights.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "SH008483860000"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-11T16:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "5.2",
+    "call_sign": "KVVUDT2",
+    "station_group": "FOX (KVVU)",
+    "title": "College Football",
+    "subtitle": "2015: Michigan at Utah",
+    "description": "Classic football games.",
+    "genres": [
+      "Classic Sport Event",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 720p",
+    "program_id": "EP002712888772"
+  }
+]
