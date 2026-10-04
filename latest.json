@@ -332,5 +332,23 @@
     ],
     "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
     "program_id": "SH008483860000"
+  },
+  {
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "start_time_pt": "5:15 PM",
+    "start_iso": "2026-10-11T17:15:00-07:00",
+    "runtime_minutes": 195,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "NFL Football",
+    "subtitle": "Baltimore Ravens at Atlanta Falcons",
+    "description": "The Atlanta Falcons host the Baltimore Ravens for Week 5 at Mercedes-Benz Stadium. Baltimore secured a 17-9 victory over Atlanta in December 2022. The Falcons represent the NFC South division, while the Ravens compete in the AFC North division.\n2026-2027 at Mercedes-Benz Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "EP000031285756"
   }
 ]
