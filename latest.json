@@ -1,171 +1,5 @@
 [
   {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "8:00 AM",
-    "start_iso": "2026-10-04T08:00:00-07:00",
-    "runtime_minutes": 60,
-    "channel": "5.1",
-    "call_sign": "KVVUDT",
-    "station_group": "FOX (KVVU)",
-    "title": "FOX NFL Kickoff",
-    "subtitle": "",
-    "description": "Episode 5 (2026)\nCharissa Thompson (Host), Charles Woodson (Host), Julian Edelman (Host)\nFOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
-    "genres": [
-      "Sports talk",
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
-    "program_id": "EP017759620012"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "9:00 AM",
-    "start_iso": "2026-10-04T09:00:00-07:00",
-    "runtime_minutes": 60,
-    "channel": "5.1",
-    "call_sign": "KVVUDT",
-    "station_group": "FOX (KVVU)",
-    "title": "FOX NFL Sunday",
-    "subtitle": "",
-    "description": "Episode 5 (2026)\nCurt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nHosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
-    "genres": [
-      "Sports talk",
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
-    "program_id": "EP001148370025"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "9:00 AM",
-    "start_iso": "2026-10-04T09:00:00-07:00",
-    "runtime_minutes": 60,
-    "channel": "8.1",
-    "call_sign": "KLASDT",
-    "station_group": "CBS (KLAS)",
-    "title": "The NFL Today",
-    "subtitle": "",
-    "description": "Episode 10 (2026)\nJames Brown (Host), Bill Cowher (Host), Nate Burleson (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
-    "genres": [
-      "Sports talk",
-      "Football"
-    ],
-    "qualifiers": "CC,HD 1080i,HDTV",
-    "program_id": "EP002769000095"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "10:00 AM",
-    "start_iso": "2026-10-04T10:00:00-07:00",
-    "runtime_minutes": 180,
-    "channel": "5.1",
-    "call_sign": "KVVUDT",
-    "station_group": "FOX (KVVU)",
-    "title": "NFL Football",
-    "subtitle": "Los Angeles Rams at Philadelphia Eagles",
-    "description": "The Philadelphia Eagles host the Los Angeles Rams in Week 4 at Lincoln Financial Field. Philadelphia stands at 2-1 after a 27-7 loss to Chicago, while Rams' QB Matthew Stafford racked up 390 passing yards in a 30-26 loss to the Broncos.\n2026-2027 at Lincoln Financial Field",
-    "genres": [
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
-    "program_id": "EP000031285733"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "10:00 AM",
-    "start_iso": "2026-10-04T10:00:00-07:00",
-    "runtime_minutes": 205,
-    "channel": "8.1",
-    "call_sign": "KLASDT",
-    "station_group": "CBS (KLAS)",
-    "title": "NFL Football",
-    "subtitle": "New England Patriots at Buffalo Bills",
-    "description": "The Bills (3-0) host the Patriots (1-2) at Highmark Stadium. The Bills beat the Chargers 24-16 behind two Josh Allen rushing TDs, but his status is in question due to a sore knee. New England enters after a 35-6 loss to Jacksonville in Week 3.\n2026-2027 at New Highmark Stadium",
-    "genres": [
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
-    "program_id": "EP000031285732"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "1:00 PM",
-    "start_iso": "2026-10-04T13:00:00-07:00",
-    "runtime_minutes": 30,
-    "channel": "5.1",
-    "call_sign": "KVVUDT",
-    "station_group": "FOX (KVVU)",
-    "title": "NFL on FOX Postgame",
-    "subtitle": "",
-    "description": "Curt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nScores and highlights from around the NFL, with hosts Curt Menefee and Terry Bradshaw along with analysts Howie Long, Jimmy Johnson and Michael Strahan.",
-    "genres": [
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
-    "program_id": "SH002017190000"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "1:25 PM",
-    "start_iso": "2026-10-04T13:25:00-07:00",
-    "runtime_minutes": 185,
-    "channel": "8.1",
-    "call_sign": "KLASDT",
-    "station_group": "CBS (KLAS)",
-    "title": "NFL Football",
-    "subtitle": "Kansas City Chiefs at Las Vegas Raiders",
-    "description": "The Las Vegas Raiders host the Kansas City Chiefs at Allegiant Stadium in NFL Week 4. Both teams are unbeaten, sitting atop the AFC West. Las Vegas claimed the last meeting, a 14-12 victory in the last game of the regular season on January 4.\n2026-2027 at Allegiant Stadium",
-    "genres": [
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
-    "program_id": "EP000031285740"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "4:00 PM",
-    "start_iso": "2026-10-04T16:00:00-07:00",
-    "runtime_minutes": 75,
-    "channel": "3.1",
-    "call_sign": "KSNVDT",
-    "station_group": "NBC (KSNV)",
-    "title": "Football Night in America",
-    "subtitle": "",
-    "description": "Maria Taylor (Host), Jason Garrett (Host), Mike Tomlin (Host)\n\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day's NFL highlights.",
-    "genres": [
-      "Sports talk",
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
-    "program_id": "SH008483860000"
-  },
-  {
-    "date": "2026-10-04",
-    "weekday": "Sunday",
-    "start_time_pt": "5:15 PM",
-    "start_iso": "2026-10-04T17:15:00-07:00",
-    "runtime_minutes": 195,
-    "channel": "3.1",
-    "call_sign": "KSNVDT",
-    "station_group": "NBC (KSNV)",
-    "title": "NFL Football",
-    "subtitle": "Detroit Lions at Carolina Panthers",
-    "description": "The Detroit Lions clash with the Carolina Panthers in Week 4 at Bank of America stadium. Detroit enters following a 31-24 win over the Jets on September 27, while host Carolina aims to bounce back from a 21-18 loss to Cleveland the same day.\n2026-2027 at Bank of America Stadium",
-    "genres": [
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 1080i,HDTV",
-    "program_id": "EP000031285741"
-  },
-  {
     "date": "2026-10-11",
     "weekday": "Sunday",
     "start_time_pt": "8:00 AM",
@@ -350,5 +184,23 @@
     ],
     "qualifiers": "Live,CC,HD 1080i,HDTV",
     "program_id": "EP000031285756"
+  },
+  {
+    "date": "2026-10-12",
+    "weekday": "Monday",
+    "start_time_pt": "5:15 PM",
+    "start_iso": "2026-10-12T17:15:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "NFL Football",
+    "subtitle": "Buffalo Bills at Los Angeles Rams",
+    "description": "The Los Angeles Rams host the Buffalo Bills at SoFi Stadium in NFL Week 5. The last meeting between the Rams and Bills ended in a 44-42 classic win by the Rams in December 2024. The Bills seek revenge in this AFC East and NFC West clash.\n2026-2027 at SoFi Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV",
+    "program_id": "EP000031285757"
   }
 ]
