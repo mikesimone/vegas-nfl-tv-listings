@@ -202,5 +202,24 @@
     ],
     "qualifiers": "Live,CC,HD 720p,HDTV",
     "program_id": "EP000031285757"
+  },
+  {
+    "date": "2026-10-13",
+    "weekday": "Tuesday",
+    "start_time_pt": "8:00 PM",
+    "start_iso": "2026-10-13T20:00:00-07:00",
+    "runtime_minutes": 120,
+    "channel": "13.1",
+    "call_sign": "KTNVDT",
+    "station_group": "ABC (KTNV)",
+    "title": "Dancing With the Stars",
+    "subtitle": "Super Bowl Night",
+    "description": "Season 35; Episode 6 (2026)\nJulianne Hough (Host), Alfonso Ribeiro (Host), Bruno Tonioli (Judge)\nDirector: Phil Heyes\nProfessional dancers pair with celebrities to train and compete in ballroom dancing, receiving guidance from a panel of experts along the way.",
+    "genres": [
+      "Dance",
+      "Competition Reality"
+    ],
+    "qualifiers": "New,CC,DD 5.1,Delay,HD 720p,HDTV,Stereo",
+    "program_id": "EP007473660770"
   }
 ]
