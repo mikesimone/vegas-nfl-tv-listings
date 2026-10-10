@@ -53,7 +53,7 @@
       "Sports talk",
       "Football"
     ],
-    "qualifiers": "CC,HD 1080i,HDTV",
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
     "program_id": "EP002769000096"
   },
   {
@@ -221,5 +221,153 @@
     ],
     "qualifiers": "New,CC,DD 5.1,Delay,HD 720p,HDTV,Stereo",
     "program_id": "EP007473660770"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "8:00 AM",
+    "start_iso": "2026-10-18T08:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Kickoff",
+    "subtitle": "",
+    "description": "Episode 7 (2026)\nCharissa Thompson (Host), Charles Woodson (Host), Julian Edelman (Host)\nFOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP017759620014"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-18T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Sunday",
+    "subtitle": "",
+    "description": "Episode 7 (2026)\nCurt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nHosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP001148370027"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-18T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "The NFL Today",
+    "subtitle": "",
+    "description": "Episode 12 (2026)\nJames Brown (Host), Bill Cowher (Host), Nate Burleson (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "CC,HD 1080i,HDTV",
+    "program_id": "EP002769000097"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-18T10:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL Football",
+    "subtitle": "Chicago Bears at Atlanta Falcons",
+    "description": "The Atlanta Falcons host the Chicago Bears in NFL regular-season Week 6 at Mercedes-Benz Stadium. Atlanta relies on Bijan Robinson following his 145-yard rushing game, while Chicago seeks a repeat of its 37-17 victory from the previous meeting.\n2026-2027 at Mercedes-Benz Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP000031285763"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-18T10:00:00-07:00",
+    "runtime_minutes": 205,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Football",
+    "subtitle": "Pittsburgh Steelers at Tampa Bay Buccaneers",
+    "description": "The Pittsburgh Steelers visit the Tampa Bay Buccaneers in an NFL Week 6 game at Raymond James Stadium. Pittsburgh has dominated the historic game, winning their last regular-season meeting 20-18 against Tampa Bay at Acrisure Stadium in October 2022.\n2026-2027 at Raymond James Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP000031285766"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "1:00 PM",
+    "start_iso": "2026-10-18T13:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL on FOX Postgame",
+    "subtitle": "",
+    "description": "Curt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nScores and highlights from around the NFL, with hosts Curt Menefee and Terry Bradshaw along with analysts Howie Long, Jimmy Johnson and Michael Strahan.",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "SH002017190000"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "1:25 PM",
+    "start_iso": "2026-10-18T13:25:00-07:00",
+    "runtime_minutes": 185,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Football",
+    "subtitle": "Buffalo Bills at Las Vegas Raiders",
+    "description": "The Las Vegas Raiders host the Buffalo Bills in NFL Week 6 at Allegiant Stadium. Buffalo has won three straight in this series. The Bills look to Josh Allen, who leads the offense, while the Raiders look to Kirk Cousins as both seek momentum.\n2026-2027 at Allegiant Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP000031285769"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-18T16:00:00-07:00",
+    "runtime_minutes": 75,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "Football Night in America",
+    "subtitle": "",
+    "description": "Maria Taylor (Host), Jason Garrett (Host), Mike Tomlin (Host)\n\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day's NFL highlights.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "SH008483860000"
   }
 ]
