@@ -214,7 +214,7 @@
     "station_group": "ABC (KTNV)",
     "title": "Dancing With the Stars",
     "subtitle": "Super Bowl Night",
-    "description": "Season 35; Episode 6 (2026)\nJulianne Hough (Host), Alfonso Ribeiro (Host), Bruno Tonioli (Judge)\nDirector: Phil Heyes\nProfessional dancers pair with celebrities to train and compete in ballroom dancing, receiving guidance from a panel of experts along the way.",
+    "description": "Season 35; Episode 6 (2026)\nJulianne Hough (Host), Alfonso Ribeiro (Host), Bruno Tonioli (Judge)\nDirector: Phil Heyes\nThe remaining 11 couples perform songs made famous by some of the most iconic Super Bowl performances throughout the years; sportscaster Joe Buck joins as a guest judge.",
     "genres": [
       "Dance",
       "Competition Reality"
@@ -369,5 +369,23 @@
     ],
     "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
     "program_id": "SH008483860000"
+  },
+  {
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "start_time_pt": "5:15 PM",
+    "start_iso": "2026-10-18T17:15:00-07:00",
+    "runtime_minutes": 195,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "NFL Football",
+    "subtitle": "Dallas Cowboys at Green Bay Packers",
+    "description": "The Packers host the Cowboys in NFL Week 6 action at Lambeau Field. The sides drew 40-40 in their last meeting at AT&T Stadium in September 2025. The Cowboys look to Dak Prescott to lead the offense while Jordan Love who anchors the Packers.\n2026-2027 at Lambeau Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "EP000031285770"
   }
 ]
