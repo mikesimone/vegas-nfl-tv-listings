@@ -1,23 +1,5 @@
 [
   {
-    "date": "2026-10-12",
-    "weekday": "Monday",
-    "start_time_pt": "5:15 PM",
-    "start_iso": "2026-10-12T17:15:00-07:00",
-    "runtime_minutes": 180,
-    "channel": "13.1",
-    "call_sign": "KTNVDT",
-    "station_group": "ABC (KTNV)",
-    "title": "NFL Football",
-    "subtitle": "Buffalo Bills at Los Angeles Rams",
-    "description": "The Rams host the Bills at SoFi Stadium. Buffalo lost its previous game to New England 29-26, while the Rams have alternated wins and losses. The Rams rely on Matthew Stafford, who has six touchdowns; Buffalo looks to Josh Allen, who has six as well.\n2026-2027 at SoFi Stadium",
-    "genres": [
-      "Football"
-    ],
-    "qualifiers": "Live,CC,HD 720p,HDTV",
-    "program_id": "EP000031285757"
-  },
-  {
     "date": "2026-10-13",
     "weekday": "Tuesday",
     "start_time_pt": "8:00 PM",
