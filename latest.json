@@ -1,24 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "weekday": "Tuesday",
-    "start_time_pt": "8:00 PM",
-    "start_iso": "2026-10-13T20:00:00-07:00",
-    "runtime_minutes": 120,
-    "channel": "13.1",
-    "call_sign": "KTNVDT",
-    "station_group": "ABC (KTNV)",
-    "title": "Dancing With the Stars",
-    "subtitle": "Super Bowl Night",
-    "description": "Season 35; Episode 6 (2026)\nJulianne Hough (Host), Alfonso Ribeiro (Host), Bruno Tonioli (Judge)\nDirector: Phil Heyes\nThe remaining 11 couples perform songs made famous by some of the most iconic Super Bowl performances throughout the years; sportscaster Joe Buck joins as a guest judge.",
-    "genres": [
-      "Dance",
-      "Competition Reality"
-    ],
-    "qualifiers": "New,CC,DD 5.1,Delay,HD 720p,HDTV,Stereo",
-    "program_id": "EP007473660770"
-  },
-  {
     "date": "2026-10-18",
     "weekday": "Sunday",
     "start_time_pt": "8:00 AM",
@@ -86,7 +67,7 @@
     "station_group": "FOX (KVVU)",
     "title": "NFL Football",
     "subtitle": "Chicago Bears at Atlanta Falcons",
-    "description": "The Atlanta Falcons host the Chicago Bears in NFL regular-season Week 6 at Mercedes-Benz Stadium. Atlanta relies on Bijan Robinson following his 145-yard rushing game, while Chicago seeks a repeat of its 37-17 victory from the previous meeting.\n2026-2027 at Mercedes-Benz Stadium",
+    "description": "The Atlanta Falcons host the Chicago Bears at Mercedes-Benz Stadium in an NFC game. Chicago looks to D'Andre Swift to establish the ground attack, while Atlanta relies on Bijan Robinson on rushing downs after his strong early October touches.\n2026-2027 at Mercedes-Benz Stadium",
     "genres": [
       "Football"
     ],
@@ -104,7 +85,7 @@
     "station_group": "CBS (KLAS)",
     "title": "NFL Football",
     "subtitle": "Pittsburgh Steelers at Tampa Bay Buccaneers",
-    "description": "The Pittsburgh Steelers visit the Tampa Bay Buccaneers in an NFL Week 6 game at Raymond James Stadium. Pittsburgh has dominated the historic game, winning their last regular-season meeting 20-18 against Tampa Bay at Acrisure Stadium in October 2022.\n2026-2027 at Raymond James Stadium",
+    "description": "The Tampa Bay Buccaneers host the Pittsburgh Steelers in NFL Week 6 at Raymond James Stadium. Tampa Bay (1-4) ended their four-game skid by beating Dallas behind 165 rushing yards from Bucky Irving. Pittsburgh (3-2) beat Indianapolis 34-22 last week.\n2026-2027 at Raymond James Stadium",
     "genres": [
       "Football"
     ],
@@ -195,7 +176,7 @@
     "station_group": "ABC (KTNV)",
     "title": "NFL Football",
     "subtitle": "Washington Commanders at San Francisco 49ers",
-    "description": "The San Francisco 49ers host the Washington Commanders in NFL Week 6 at Levi's Stadium. San Francisco has taken three of the last five. The 49ers look to Brock Purdy to lead the offense while the Commanders counter with Jacory Croskey-Merritt.\n2026-2027 at Levi's Stadium",
+    "description": "The San Francisco 49ers host the Washington Commanders in Week 6 at Levi's Stadium. San Francisco beat Seattle, 32-29, to maintain their unbeaten streak. The Commanders tied with the Giants after overtime, stopping a multi-game slide with the draw.\n2026-2027 at Levi's Stadium",
     "genres": [
       "Football"
     ],
