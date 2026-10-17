@@ -121,7 +121,7 @@
     "station_group": "CBS (KLAS)",
     "title": "NFL Football",
     "subtitle": "Buffalo Bills at Las Vegas Raiders",
-    "description": "The Las Vegas Raiders host the Buffalo Bills in NFL Week 6 at Allegiant Stadium. Buffalo has won three straight in this series. The Bills look to Josh Allen, who leads the offense, while the Raiders look to Kirk Cousins as both seek momentum.\n2026-2027 at Allegiant Stadium",
+    "description": "The Las Vegas Raiders host the Buffalo Bills in Week 6. In week 5, Las Vegas lost 45-17 to the New England Patriots, leaving them at 3-2, while the Buffalo Bills beat the Los Angeles Rams 37-34 in overtime to improve to 4-1.\n2026-2027 at Allegiant Stadium",
     "genres": [
       "Football"
     ],
@@ -182,5 +182,173 @@
     ],
     "qualifiers": "Live,CC,HD 720p,HDTV",
     "program_id": "EP000031285771"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "8:00 AM",
+    "start_iso": "2026-10-25T08:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Kickoff",
+    "subtitle": "",
+    "description": "Episode 8 (2026)\nCharissa Thompson (Host), Charles Woodson (Host), Julian Edelman (Host)\nFOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP017759620015"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-25T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "FOX NFL Sunday",
+    "subtitle": "",
+    "description": "Episode 8 (2026)\nCurt Menefee (Host), Terry Bradshaw (Host), Howie Long (Host)\nHosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP001148370028"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "9:00 AM",
+    "start_iso": "2026-10-25T09:00:00-07:00",
+    "runtime_minutes": 60,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "The NFL Today",
+    "subtitle": "",
+    "description": "Episode 13 (2026)\nJames Brown (Host), Bill Cowher (Host), Nate Burleson (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP002769000098"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-25T10:00:00-07:00",
+    "runtime_minutes": 205,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL Football",
+    "subtitle": "San Francisco 49ers at Atlanta Falcons",
+    "description": "From Mercedes-Benz Stadium in Atlanta.\n2026-2027 at Mercedes-Benz Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP000031285774"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "10:00 AM",
+    "start_iso": "2026-10-25T10:00:00-07:00",
+    "runtime_minutes": 180,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Football",
+    "subtitle": "Cincinnati Bengals at Baltimore Ravens",
+    "description": "From M&T Bank Stadium in Baltimore.\n2026-2027 at M&T Bank Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP000031285776"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "1:00 PM",
+    "start_iso": "2026-10-25T13:00:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Today Postgame",
+    "subtitle": "",
+    "description": "Episode 5 (2026)\nJames Brown (Host), Nate Burleson (Host), Bill Cowher (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP004204220056"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "1:25 PM",
+    "start_iso": "2026-10-25T13:25:00-07:00",
+    "runtime_minutes": 185,
+    "channel": "5.1",
+    "call_sign": "KVVUDT",
+    "station_group": "FOX (KVVU)",
+    "title": "NFL Football",
+    "subtitle": "Los Angeles Rams at Las Vegas Raiders",
+    "description": "From Allegiant Stadium in Las Vegas.\n2026-2027 at Allegiant Stadium",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 720p,HDTV,Stereo",
+    "program_id": "EP000031285783"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "1:30 PM",
+    "start_iso": "2026-10-25T13:30:00-07:00",
+    "runtime_minutes": 30,
+    "channel": "8.1",
+    "call_sign": "KLASDT",
+    "station_group": "CBS (KLAS)",
+    "title": "NFL Today Postgame",
+    "subtitle": "",
+    "description": "Episode 5 (2026)\nJames Brown (Host), Nate Burleson (Host), Bill Cowher (Host)\nFeaturing highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "EP004204220056"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "4:00 PM",
+    "start_iso": "2026-10-25T16:00:00-07:00",
+    "runtime_minutes": 75,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "Football Night in America",
+    "subtitle": "",
+    "description": "Maria Taylor (Host), Jason Garrett (Host), Mike Tomlin (Host)\n\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day's NFL highlights.",
+    "genres": [
+      "Sports talk",
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
+    "program_id": "SH008483860000"
   }
 ]
