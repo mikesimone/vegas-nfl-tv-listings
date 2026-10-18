@@ -350,5 +350,23 @@
     ],
     "qualifiers": "Live,CC,HD 1080i,HDTV,Stereo",
     "program_id": "SH008483860000"
+  },
+  {
+    "date": "2026-10-25",
+    "weekday": "Sunday",
+    "start_time_pt": "5:15 PM",
+    "start_iso": "2026-10-25T17:15:00-07:00",
+    "runtime_minutes": 195,
+    "channel": "3.1",
+    "call_sign": "KSNVDT",
+    "station_group": "NBC (KSNV)",
+    "title": "NFL Football",
+    "subtitle": "Kansas City Chiefs at Seattle Seahawks",
+    "description": "The Seattle Seahawks host the Kansas City Chiefs in NFL Week 7 regular-season action at Lumen Field. Kansas City relies on quarterback Patrick Mahomes who leads the Chiefs in touchdowns with nine, while quarterback Sam Darnold leads Seattle.\n2026-2027 at Lumen Field",
+    "genres": [
+      "Football"
+    ],
+    "qualifiers": "Live,CC,HD 1080i,HDTV",
+    "program_id": "EP000031285784"
   }
 ]
