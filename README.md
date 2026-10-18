@@ -49,6 +49,38 @@ subchannel of the four stations is scanned. Studio shows such as "FOX NFL
 Sunday", "The NFL Today" and "Football Night in America" (the SNF pregame)
 are kept; games are the entries titled "NFL Football".
 
+## Consuming the feed
+
+Read the **tip of `main`**, never a pinned commit:
+
+```
+https://raw.githubusercontent.com/mikesimone/vegas-nfl-tv-listings/main/latest.json
+```
+
+**Do not pin a commit SHA.** `latest.json` is overwritten in place every run,
+so a SHA-pinned URL — or a GitHub "permalink", or a clone that never pulls —
+returns that day's snapshot forever while the commit history keeps growing
+around it. That failure mode looks exactly like a broken scraper: fresh commits
+every day, frozen content. It happened on 2026-10-17, where a consumer was
+reading `c3bc7d7` (the first commit, 2026-10-02) and reporting 61 entries for
+Oct 2-11 while `main` had the correct 19 entries for Oct 18-25.
+
+**Check freshness, don't assume it.** A blocked or failed run leaves
+`latest.json` untouched and commits nothing (see Failure handling below), so
+the file can legitimately be a day or more old. `last-run.json` is the
+authoritative answer:
+
+- `scraped_at` - when the run that produced the current `latest.json` finished.
+- `window_start` / `window_end` - the Pacific date range that run asked for.
+  These always roll forward with "today"; if they don't, the scraper really is
+  stuck.
+- `errors` - empty on a clean run.
+
+**An empty or short `latest.json` is usually correct, not a fault.** Only
+FOX/CBS/NBC/ABC over-the-air airings are kept, so a window covering Tue-Sat
+typically holds nothing but the upcoming Sunday and Monday. Thursday Night
+Football is streaming-only and never appears.
+
 ## How it works
 
 - **Cloudflare.** tvtv.us is behind Cloudflare. Plain HTTP (`curl`,
